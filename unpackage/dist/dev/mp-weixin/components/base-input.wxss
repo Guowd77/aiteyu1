@@ -1,0 +1,22 @@
+
+.uni-form-item{
+	padding: 10rpx 0;
+	width: 590rpx;
+	margin: 0 auto;
+}
+.uni-form-item image{
+	display: inline-block;
+	width:50rpx;
+	height: 50rpx;
+	margin-right: 27rpx;
+}
+.uni-form-item input{
+	display: inline-block;
+	width: 500rpx;
+	background: #F6F6F6;
+	border: #EBEBEB;
+	border-radius: 15rpx;
+	font-size: 30rpx;
+	padding-left: 15rpx;
+}
+

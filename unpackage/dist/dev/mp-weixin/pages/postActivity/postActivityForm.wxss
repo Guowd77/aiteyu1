@@ -1,0 +1,56 @@
+
+.container{
+	width: 100%;
+}
+.bannerTop{
+	width: 100%;
+	text-align: center;
+	margin: 20px 10 0px 10px;
+}
+.bannerTop image{
+	width: 95%;
+	border-radius: 3%;
+}
+.activityForm{
+	padding: 0 2%;
+}
+.activityForm_title{
+	border-bottom:1px solid #CAD2DF;
+	padding:8px 0px;
+}
+.activityForm_title text{
+	margin-left: 10%;
+}
+.uni-form-item .title{
+}
+.uni-form-item view{
+	display: inline-block;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	line-height: 100%;
+}
+.uni-form-item input{
+	display: inline-block;
+	border-bottom:1px solid #CAD2DF;
+	margin-left: 10px;
+	overflow: visible;
+}
+.uni-form-item radio{
+	margin-left: 10px;
+}
+.uni-btn-v button{
+	width:100%;
+	background:#FC8902;
+	color: #fff;
+	border-radius: 0;
+}
+.formBorder{
+	padding:20rpx;
+}
+.postBtn{
+	position: absolute;
+	right: 10px;
+	top:10px;
+}
+

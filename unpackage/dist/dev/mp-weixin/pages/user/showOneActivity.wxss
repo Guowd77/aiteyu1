@@ -1,0 +1,116 @@
+
+.container{
+	margin:0 auto ;
+	width: 100%;
+	background: #F8F8F8;
+	padding-bottom: 50rpx;
+}
+.text-size{
+	font-size: 25rpx;
+}
+.paddingTop{
+	padding:10px 0 ;
+}
+.topImage image{
+	display: block;
+	width:92%;
+	height: 350rpx;
+	margin: 15rpx auto;
+	border-radius: 30rpx;
+}
+.activityDetail_title{
+	font-size:35rpx;
+	height: 60rpx;
+	line-height: 60rpx;
+	text-align: center;
+}
+.activityDetail{
+	width:100%;
+	margin:15rpx 0 20rpx 45rpx;
+}
+.activityDetail_topLine{
+	border-top:1px solid #C9D1DE;
+}
+.itemContent{
+	padding:0 15rpx;
+}
+.itemTitle{
+	font-size: 30rpx;
+	font-weight: 900;
+}
+.itemTime{
+	font-size: 25rpx;
+	padding:11rpx 0 0 0;
+}
+.listIcon{
+	width:25rpx;
+	height: 25rpx;
+	padding-right:10rpx;
+	padding-top: 10rpx;
+}
+.itemFooter{
+	margin-top: 10rpx;
+}
+.itemFooter image{
+	width: 35rpx;
+	height: 35rpx;
+	margin: 10rpx 10rpx;
+	border-radius: 35rpx;
+}
+.itemFooter .baoming{
+	display: inline-block;
+	width: 35rpx;
+	height: 35rpx;
+	margin: 10rpx 10rpx;
+	position: absolute;
+	border-radius: 50rpx;
+	background: #c9c3c3;
+	color: #fff;
+	font-size: 25rpx;
+	text-align: center;
+	line-height: 35rpx;
+}
+.itemFooter .yibaoming{
+	display: inline-block;
+	width: 100rpx;
+	height: 35rpx;
+	margin: 10rpx 10rpx;
+	margin-left: 60rpx;
+	position: absolute;
+	color: #DCDBDB;
+	font-size: 25rpx;
+	text-align: center;
+	line-height: 35rpx;
+}
+.activityDetail_content{
+	width: 100%;
+	padding: 15rpx 30rpx;
+	font-size: 28rpx;
+}
+scroll-view{
+	overflow: scroll;
+}
+.marginTop{
+	margin-top: 5px;
+}
+.hot-wrap{
+	overflow: scroll;
+	height: 300px;
+}
+.hot-wrap-item{
+	width: 33%;
+}
+.hidenButton{
+	display: inline-block;
+	height: 100%;
+	font-size: 26rpx;
+	margin-top:10rpx;
+	line-height: 100%;
+	background: #FFFFFF;
+	
+	float: right;
+}
+.hidenButton::after{
+  border: none;
+}
+

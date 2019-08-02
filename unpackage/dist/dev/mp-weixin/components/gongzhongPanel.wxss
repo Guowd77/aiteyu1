@@ -1,0 +1,28 @@
+
+.flexbox{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	    -ms-flex-direction: row;
+	        flex-direction: row;
+	height: 120rpx;
+}
+.gongzhongImage {
+	margin: 10rpx 15rpx;
+}
+.gongzhongImage image {
+	width: 105rpx;
+	height: 105rpx;
+}
+.gongzhongText{
+	margin: 15rpx 0;
+	font-size: 20rpx;
+}
+.guanzhuBtn {
+	line-height: 130rpx;
+}
+

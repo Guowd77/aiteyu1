@@ -1,0 +1,173 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .messagesInfo{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.messagesItem{
+	height: 250upx;
+	border-bottom: 1 soild #8F8F94;
+}
+.clubImage{
+	margin: 10upx 6%;
+	height: 100upx;
+	width: 100upx;
+	position: relative;
+	top: 30upx;
+}
+.clubName{
+	font-size: 35upx;
+	margin-left: 4%;
+	margin-top: 10upx;
+
+}
+.messagesText{
+	width: 73%;
+	height: 150upx;
+	position: relative;
+	top: -140upx;
+	left: 26%;
+	font-size: 35upx;
+}
+.messagesTime{
+	position: relative;
+	top: -120upx;
+	padding-left: 38%;
+	font-size: 35upx;
+	border-bottom:  #C9D1DE solid;
+	color: #C9D1DE;
+} */
+

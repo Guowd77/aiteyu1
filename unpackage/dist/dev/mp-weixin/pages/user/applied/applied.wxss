@@ -1,0 +1,12 @@
+
+view{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+.head{
+	height: 400rpx;
+	border: 1rpx solid #000000;
+}
+

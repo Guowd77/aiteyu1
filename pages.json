@@ -1,0 +1,124 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+		
+			"style": {
+				"navigationBarTitleText": "艾特鱼",
+				"enablePullDownRefresh": true
+			}
+		},
+	    {
+            "path" : "pages/index/authrize",
+            "style" : {
+				"navigationBarTitleText": "艾特鱼"
+			}
+        }
+        ,{
+            "path" : "pages/postActivity/postActivityForm",
+            "style" : {
+				"navigationBarTitleText": "活动报名"
+            }
+        }
+        ,{
+            "path" : "pages/activityDetail/showOneActivity",
+            "style" : {
+				"navigationBarTitleText": "活动详情"
+            }
+        }
+		,{
+		    "path" : "pages/activityDetail/activityListType",
+		    "style" : {
+				"navigationBarTitleText": "更多活动",
+				"enablePullDownRefresh":true,
+				"onReachBottomDistance":40
+		    }
+		},
+		{
+			"path":"pages/user/messages",
+			"navigationBarTitleText": "通知"
+		},
+		{
+			"path":"pages/user/details/details",
+			"navigationBarTitleText":"报名详情"
+		},
+		{
+			"path":"pages/user/index",
+			"style":{
+				"navigationBarTitleText":"个人信息",
+				"enablePullDownRefresh":true
+			}
+		},
+		{
+			"path":"pages/user/alterInfo/alterInfo",
+			"navigationBarTitleText":"修改报名信息"
+		},
+		{
+			"path":"pages/user/applied/applied",
+			"navigationBarTitleText":"报名表单"
+		},
+		{
+			"path":"pages/user/createMess/createMess",
+			"navigationBarTitleText":"发送通知"
+		},
+		{
+		    "path" : "pages/activityDetail/joinActivity",
+		    "style" : {
+				"navigationBarTitleText": "报名活动"
+		    }
+		},{
+		    "path" : "pages/activityDetail/successInfo",
+		    "style" : {
+				"navigationBarTitleText": "报名通知"
+		    }
+		},{
+		    "path" : "pages/postActivity/choosePic",
+		    "style" : {
+				"navigationBarTitleText": "选择图片"
+		    }
+		},
+		{
+		    "path" : "pages/activityDetail/searchResult",
+		    "style" : {
+				"navigationBarTitleText": "搜索结果"
+		    }
+		},
+		{
+		    "path" : "pages/user/joined/joined",
+		    "style" : {
+				"navigationBarTitleText": "我的圈子"
+		    }
+		},
+		{
+			"path" :"pages/user/showOneActivity",
+			"navigationBarTitleText":"活动详情"
+		},
+		{
+			"path":"pages/user/alterJoinedInfo",
+			"navigationBarTitleText":"修改报名信息"
+		}
+
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "艾特鱼",
+		"navigationBarBackgroundColor": "#FC8902",
+		"backgroundColor": "#F8F8F8",
+		"navigationStyle":"custom"
+	}
+	/*"tabBar": {
+        "color": "#7A7E83",
+        "selectedColor": "#FC8902",
+        "borderStyle": "black",
+        "backgroundColor": "#ffffff",
+		"position":"top",
+        "list": [{
+            "pagePath": "pages/index/index",
+            "text": "去报名"
+        }, {
+            "pagePath": "pages/index/index2",
+
+            "text": "去发布"
+        }]
+    }*/
+}

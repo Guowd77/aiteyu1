@@ -1,0 +1,41 @@
+
+.container{
+		width:100%;
+		padding-bottom: 70rpx;
+		background: #F8F8F8;
+}
+.content {
+		text-align: center;
+}
+.logo{
+        height: 200rpx;
+        width: 200rpx;
+        margin-top: 200rpx;
+}
+.title {
+		font-size: 36rpx;
+		color: #8f8f94;
+}
+.text-line{
+		color:#FC8902;
+}
+.tabNav{
+		position: fixed;
+		left: 0;
+		z-index: 800;
+}
+.contentItem{
+		width:100%;
+		height: 100%;
+		overflow: scroll;
+}
+.search-keyword{
+		z-index: 999;
+}
+.waitGif{
+		position: absolute;
+		width: 100%;
+		height: 100%;
+		z-index: 999;
+}
+

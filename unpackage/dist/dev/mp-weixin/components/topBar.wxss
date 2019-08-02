@@ -1,0 +1,12 @@
+
+.topBar{
+	position: fixed;
+	left: 0;
+	top: 0;
+	z-index: 999;
+	background: #FFFFFF;
+	-webkit-box-sizing: content-box;
+	        box-sizing: content-box;
+	line-height: 100%;
+}
+

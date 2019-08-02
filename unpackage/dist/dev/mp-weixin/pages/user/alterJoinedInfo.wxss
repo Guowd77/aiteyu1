@@ -1,0 +1,45 @@
+
+.container{
+	margin:0 auto ;
+	width: 100%;
+	padding-bottom: 50rpx;
+}
+page{
+	background: #fff;
+}
+.formTitle{
+	text-align: center;
+	font-size: 35rpx;
+	padding: 20rpx 0;
+}
+.formDetail view{
+	display: inline-block;
+	padding: 0 15rpx;
+}
+.formDetail view image{
+	width: 30rpx;
+	height: 30rpx;
+	margin-right: 15rpx;
+}
+.formDetail{
+	font-size: 29rpx;
+	text-align: center;
+}
+.formContent{
+	margin-top: 20rpx;
+}
+.subBtn{
+	position: absolute;
+	width: 100%;
+	bottom:50rpx;
+}
+.subBtn button{
+	width:90%;
+	margin: 0 auto;
+	background: #FC8902;
+	color: #fff;
+}
+.subBtn button::after{
+	border: none;
+}
+

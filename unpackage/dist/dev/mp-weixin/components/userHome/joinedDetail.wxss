@@ -1,0 +1,172 @@
+
+.itemImage{
+	margin-top:5rpx;
+}
+.image{
+	position: relative;
+	width: 89.3%;
+	height: 350rpx;
+	margin-left:5.35%;
+	border-radius: 10rpx;
+}
+.itemTitle{
+	position: absolute;
+	top: 240rpx;
+	left: 5.35%;
+
+	font-size: 30rpx;
+	background-color: #999999;
+	color: #FFFFFF;
+	display:inline;
+	border-radius: 10rpx;
+}
+.club{
+	position: absolute;
+	right: 5.35%;
+	top: 300rpx;
+	font-size: 30rpx;
+	background-color: #999999;
+	color: #FFFFFF;
+	display:inline;
+	border-radius: 5rpx;
+}
+.itemDetail{
+	margin-top: 20rpx;
+	border-top: solid #C9D1DE;
+	padding: 25rpx;
+	width: 89.3%;
+	margin-left:5.35%;
+	height: 400rpx;
+}
+.itemDetailTitle{
+	font-size: 40rpx;
+	height: 50rpx;
+}
+.itemDetailBody{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	    -ms-flex-direction: row;
+	        flex-direction: row;
+	-webkit-flex-wrap:wrap ;
+	    -ms-flex-wrap:wrap ;
+	        flex-wrap:wrap ;
+	-webkit-box-pack: start;
+	-webkit-justify-content: flex-start;
+	    -ms-flex-pack: start;
+	        justify-content: flex-start;
+	-webkit-align-content: flex-start;
+	    -ms-flex-line-pack: start;
+	        align-content: flex-start;
+	margin-left: 5%;
+	margin-top: 25rpx;
+	font-size: 30rpx;
+}
+.itemIcon2{
+}
+.listIcon{
+	height: 45rpx;
+	width: 45rpx;
+}
+.myJoinedTitle{
+	position: absolute;
+	top: 815rpx;
+	left: 5.35%; 
+	background-color:  #C9D1DE;
+	font-size: 30rpx;
+	height: 50rpx;
+	border-radius: 10rpx;
+}
+.myJoined{
+	margin-top: 30rpx;
+	border-bottom: solid #C9D1DE;
+	width: 89.3%;
+	margin-left:5.35%;
+	height: 200rpx;
+}
+.myJoinedBody{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	    -ms-flex-direction: row;
+	        flex-direction: row;
+	-webkit-flex-wrap: wrap;
+	    -ms-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	-webkit-box-pack: start;
+	-webkit-justify-content: flex-start;
+	    -ms-flex-pack: start;
+	        justify-content: flex-start;
+	-webkit-align-content: flex-start;
+	    -ms-flex-line-pack: start;
+	        align-content: flex-start;
+	margin-left: 10%;
+	margin-top: 30rpx;
+}
+.myJoinedItem{
+	-webkit-flex-basis: 40%;
+	    -ms-flex-preferred-size: 40%;
+	        flex-basis: 40%;
+	height: 50rpx;
+	margin-right: 5%;
+}
+.itemFooter{
+	margin-top: 40rpx;
+	border: solid #C9D1DE;
+	width: 89.3%;
+	margin-left:5.35%;
+	height: 100rpx;
+	padding-top:20rpx;
+}
+.itemFooterTitle{
+	position: absolute;
+	top: 1060rpx;
+	left: 5.35%; 
+	background-color:  #C9D1DE;
+	font-size: 30rpx;
+	height: 50rpx;
+	border-radius: 10rpx;
+}
+.itemFooter image{
+	width: 50rpx;
+	height: 50rpx;
+	margin: 10rpx 10rpx;
+	border-radius: 50rpx;
+}
+.itemFooter text{
+	display: inline-block;
+	width: 50rpx;
+	height: 50rpx;
+	margin: 10rpx 10rpx;
+	position: absolute;
+	border-radius: 50rpx;
+	background: #c9c3c3;
+	color: #fff;
+	font-size: 25rpx;
+	text-align: center;
+	line-height: 50rpx;
+}
+.itemFooter button{
+	display: inline-block;
+	float: right;
+	height: 50rpx;
+	margin: 10rpx 10rpx;
+	background: #FC8902;
+	color: #fff;
+	font-size: 25rpx;
+	text-align: center;
+	line-height: 50rpx;
+}
+.itemFooter button::after{
+	border: none;
+}
+
+
