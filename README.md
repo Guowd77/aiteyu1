@@ -1,5 +1,6 @@
 ﻿# aiteyu
-    
+uniapp框架
+
 common中为公共文件配置
 api 中是与服务器通信的接口
 store 存放全局数据，用户信息，登录信息
